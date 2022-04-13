@@ -1,0 +1,8 @@
+VARIABLE =>  Son los recipientes en los que guardamos datos que pueden ir cambiando con el tiempo.
+
+STRINGS => Es una cadena de caracteres como letras y números encerradas en comillas
+
+FUNCIONES(ARGUMENTOS, RETURN) => Las funciones nos sirven para ahorrarnos el trabajo de escribir codigo repetido varias veces. Se inicial escribiendo function variable (argumento).
+Los argumentos son el dato que vamos a guardar en la variable, pueden ir varios argumentos en una variable separados por comas.
+Return nos sirve para finalizar la función retornando algo.
+VALORES BOOLEANOS =>Son true o false que sirven para activar o desactivar una funcion.
