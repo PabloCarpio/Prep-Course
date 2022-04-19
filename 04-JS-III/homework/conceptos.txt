@@ -1,0 +1,1 @@
+ARRAYS => Los array son lo mismo a crear una caja y meter dentro de esta todos los elementos, sin importar el tipo de estos, que queramos; no tienen un limite y podemos agregar, eliminar y/o mostrarlos en pantalla en el momento que lo necesitemos. 
